@@ -1,6 +1,7 @@
 Hi I _am Sugesh Chandra M K, 👋
 
-file:///home/sugesh/Downloads/2986bf2c4fd0b3d0bc4680f4dd9e42fe.jpg
+
+![Badge](file:///home/sugesh/Downloads/2986bf2c4fd0b3d0bc4680f4dd9e42fe.jpg)
 
 <!--
 **sugeshc389/sugeshc389** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
