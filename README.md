@@ -14,6 +14,7 @@
 
 ## 🏆 Hactoberfest Badges
 [![.](https://holopin.me/sugeshc389)](https://holopin.io/@sugeshc389)
+[![.](https://holopin.me/sugeshc389)](https://holopin.io/@sugeshc389)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
