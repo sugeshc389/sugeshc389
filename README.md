@@ -13,7 +13,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=sugeshc389&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🏆 Hactoberfest Badges
-![.](https://holopin.me/sugeshc389)](https://holopin.io/@sugeshc389)
+![.](https://holopin.me/sugeshc389/clnesbdks27810fmjv254bs3p.)
 
 
 ### ✍️ Random Dev Quote
